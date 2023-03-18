@@ -5,12 +5,25 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Vinod Kumar Chaudhari
+🎓 I am in my pre Third year studying Information Technology at Sir Chhotu Ram Institute of Engineerig Technology CCSU Campus Meerut.
+
+👩‍💻 I practice Data Structures and Algortihms in C++.
+
+💻 Currently I am learning C++ and Java.
+
+🗨 You can connect with me on LinkedIn or can send me an email at Vinodchuadhri0580@gmail.com
+
+
+👩‍💻 My Activities across Coding Platforms
+
+
+⭐GeeksForGeeks
+⭐LeetCode
+⭐HackerEarth
+
+
+
+
+
+
