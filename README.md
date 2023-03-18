@@ -3,7 +3,7 @@
 <img align="right"alt="Coding" width="400" src="C:\Users\User\Pictures\git.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodchaudhari908&label=Profile%20views&color=0e75b6&style=flat" alt="vinodchaudhari908" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
 
 - 🌱 I’m currently learning **Java,C++**
 
